@@ -1,0 +1,2 @@
+# LinearProgrammingProject
+In this project our team of four people solved a Mixed Integer Linear Programming Problem. We made up a scenario where a company had to transport fresh produce from 3 supplier locations to 8 destinations. We created the utilized a network flow approach to the problem. We used gurobi and python to optimize for the least cost based on time and capacity constraints to deliver all of the necessary amounts of product in time. There were also two options of transportation by plane or by car that impacted the decisions
